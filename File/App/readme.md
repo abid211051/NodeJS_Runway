@@ -8,20 +8,20 @@
 <h5>Write single line command in the "command.txt" and save it to see the Nodejs file operations</h5>
 <p>Commands are: </p>
 <ul>
-<div>
-<p>Create file: </p>
-<li>touch [file path/name]</li>
-</div>
-<div>
-<p>Rename or Move file: </p>
-<li>mv [old file path] [new file path]</li>
-</div>
-<div>
-<p>Delete file: </p>
-<li>unlink [file path]</li>
-</div>
-<div>
-<p>Add to file: </p>
-<li>echo [data] >> [file path]</li>
-</div>
+<li>
+  <p>Create file: </p>
+  <p>touch [file path/name]</p>
+</li>
+<li>
+  <p>Rename or Move file: </p>
+  <p>mv [old file path] [new file path]</p>
+</li>
+<li>
+  <p>Delete file: </p>
+  <p>unlink [file path]</p>
+</li>
+<li>
+  <p>Add to file: </p>
+  <p>echo [data] >> [file path]</p>
+</li>
 </ul>
