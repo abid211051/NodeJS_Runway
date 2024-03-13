@@ -5,7 +5,7 @@
 <h4>Project flow</h4>
 </hr>
 <h5>Consider "command.txt" as a command prompt</h5>
-<h5>Write single line command in the "command.txt" to see the Nodejs file operations</h5>
+<h5>Write single line command in the "command.txt" and save it to see the Nodejs file operations</h5>
 <p>Commands are: </p>
 <ul>
 <div>
