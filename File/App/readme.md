@@ -1,6 +1,6 @@
 <h3>Hello there! this is a CMD</h3>
 
-<p>This is a simple nodejs File handling project. Where we tried to get some basic file operation like: create, read, update, delete</p>
+<p>This is a simple nodejs File handling project. Where we tried to get some basic understanding on file operation like: create, read, update, delete</p>
 </hr>
 <h4>Project flow</h4>
 </hr>
