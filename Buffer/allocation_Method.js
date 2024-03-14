@@ -9,7 +9,7 @@ usingAlloc[1] = 0xa6;
 usingAlloc[2] = 0x8a;
 console.log("Using alloc(): ", usingAlloc.toString("utf-8"));
 
-/* form() is faster than alloc, and doesn't need to predefine the size of buffer.
+/* from() is faster than alloc, and doesn't need to predefine the size of buffer.
 Actually it use allocUnsafe() BTS*/
 const usingForm = Buffer.from([0x11, 0x22], "hex");
 console.log("Using Form(): ", usingForm[1].toString(16));
